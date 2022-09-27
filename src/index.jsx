@@ -1,6 +1,6 @@
 import React from 'react'
 import { createRoot } from 'react-dom/client'
-import { BrowserRouter as Router, Route, Routes, Navigate} from 'react-router-dom'
+import { HashRouter as Router, Route, Routes, Navigate} from 'react-router-dom'
 import './style/css/style.css'
 import Home from './pages/Home.jsx'
 import Error from './pages/Error.jsx'
