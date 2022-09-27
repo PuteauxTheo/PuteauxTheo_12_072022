@@ -1,0 +1,27 @@
+$blackColor: #020203;
+$redColor: #ff0000;
+
+*{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    margin: 0px;
+}
+
+html, body{
+    height: 100vh;
+}
+
+
+
+#root{
+    height: 100%;
+}
+
+
+
+.rechart-wrapper{
+    position: absolute;
+}
+
+

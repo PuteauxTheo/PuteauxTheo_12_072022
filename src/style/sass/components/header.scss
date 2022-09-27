@@ -1,0 +1,30 @@
+header{
+    background: $blackColor;
+    padding: 10px 30px;
+    z-index: 1;
+    display: flex;
+    position: relative;
+    .nav-content{
+        display: flex;
+        height: 5%;
+        width: 100%;
+        &-logo{
+            height: 60px;
+        }
+    
+        &-list{
+            color: white;
+            list-style-type: none;
+            display: flex;
+            justify-content: space-evenly;
+            width: 100%;
+            align-items: center;
+            font-size: 24px;
+            font-weight: 500;
+            
+        }
+    }
+}
+
+
+

@@ -1,0 +1,16 @@
+.hello-content{
+    margin-bottom: 40px;
+    .hello, .name{
+        font-size: 48px;
+        margin: 25px auto;
+        font-weight: 500;
+    }
+
+    .name{
+        color: #e60000;
+    }
+    .hello-text{
+        font-size: 18px;
+        font-weight: 400;
+    }
+}

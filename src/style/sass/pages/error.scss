@@ -1,0 +1,19 @@
+.content-error{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    flex-direction: column;
+    &-type{
+        font-size: 80px;
+        margin: 50px auto;
+    }
+    &-text{
+        font-size: 28px;
+        margin: 25px;
+    }
+    a{
+        color: #E60000;
+        font-size: 18px;
+    }
+}

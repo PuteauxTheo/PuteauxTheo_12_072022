@@ -1,0 +1,34 @@
+.activity-chart{
+    margin: 0px 10px 20px 0px;
+    background-color: #fbfbfb;
+    width: 100%;
+    height: 80%;
+    min-height: 300px;
+    border-radius: 5px;
+    padding: 15px 0px;
+
+    &-title{
+        position: absolute;
+        margin: 0px 10px 0px 15px;
+        font-size: 15px;
+    }
+
+    .activity-text-legend{
+        color: #74798c;
+        margin: 0px 10px 0px 5px;
+        font-size: 14px;
+    }
+
+    .activity-custom-tooltip{
+        background-color: #E60000;
+        &-text{
+            color: white;
+            font-size: 10px;
+            margin: 10px 5px;
+            display: flex;
+            height: 30px;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+}

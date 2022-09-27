@@ -1,0 +1,32 @@
+.menu-content{
+    background-color: $blackColor;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 8%;
+    top: 0px;
+    height: 100%;
+    position: absolute;
+    &-right{
+        color: white;
+        transform: rotate(-90deg);
+        position: absolute;
+        bottom: 150px;
+        width: 250px;
+    }
+}
+
+.menu{
+    display: flex;
+    flex-direction: column;
+    &-icon{
+        background-color: white;
+        display: flex;
+        justify-content: center;
+        margin: 5px;
+        height: 64px;
+        width: 64px;
+        border-radius: 6px;
+    }
+}
