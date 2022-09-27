@@ -1,4 +1,5 @@
 {
+  "homepage": "https://PuteauxTheo.github.io/PuteauxTheo_12_072022",
   "name": "sportseefront",
   "version": "0.1.0",
   "private": true,
@@ -14,6 +15,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "sass": "sass --watch ./src/style/sass/main.scss:./src/style/css/style.css",
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -43,6 +46,7 @@
   "author": "PuteauxTheo <91119961+PuteauxTheo@users.noreply.github.com>",
   "license": "MIT",
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "jsdoc": "^3.6.11"
   }
 }
