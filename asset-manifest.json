@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PuteauxTheo_12_072022/static/css/main.014a0ee1.css",
-    "main.js": "/PuteauxTheo_12_072022/static/js/main.d78a1356.js",
+    "main.js": "/PuteauxTheo_12_072022/static/js/main.a8d26713.js",
     "static/media/logoSportSee.png": "/PuteauxTheo_12_072022/static/media/logoSportSee.337e8febecea24c0c4b1.png",
     "static/media/iconSwimming.svg": "/PuteauxTheo_12_072022/static/media/iconSwimming.b18477460c84b3f5bed718ed271ab224.svg",
     "static/media/iconBike.svg": "/PuteauxTheo_12_072022/static/media/iconBike.bafe49e6fda11005d281bbac39f6d976.svg",
@@ -13,10 +13,10 @@
     "static/media/iconCalories.svg": "/PuteauxTheo_12_072022/static/media/iconCalories.b8c276e93e1df6b1691a9b5fe7fc5450.svg",
     "static/media/iconMuscu.svg": "/PuteauxTheo_12_072022/static/media/iconMuscu.4fd7249abf4f773b92a2fa8722361dd7.svg",
     "main.014a0ee1.css.map": "/PuteauxTheo_12_072022/static/css/main.014a0ee1.css.map",
-    "main.d78a1356.js.map": "/PuteauxTheo_12_072022/static/js/main.d78a1356.js.map"
+    "main.a8d26713.js.map": "/PuteauxTheo_12_072022/static/js/main.a8d26713.js.map"
   },
   "entrypoints": [
     "static/css/main.014a0ee1.css",
-    "static/js/main.d78a1356.js"
+    "static/js/main.a8d26713.js"
   ]
 }
