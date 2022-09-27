@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PuteauxTheo_12_072022/static/css/main.014a0ee1.css",
+    "main.js": "/PuteauxTheo_12_072022/static/js/main.d78a1356.js",
+    "static/media/logoSportSee.png": "/PuteauxTheo_12_072022/static/media/logoSportSee.337e8febecea24c0c4b1.png",
+    "static/media/iconSwimming.svg": "/PuteauxTheo_12_072022/static/media/iconSwimming.b18477460c84b3f5bed718ed271ab224.svg",
+    "static/media/iconBike.svg": "/PuteauxTheo_12_072022/static/media/iconBike.bafe49e6fda11005d281bbac39f6d976.svg",
+    "static/media/iconGlucides.svg": "/PuteauxTheo_12_072022/static/media/iconGlucides.4821d090cbb241833396de23c433afdb.svg",
+    "index.html": "/PuteauxTheo_12_072022/index.html",
+    "static/media/iconProteines.svg": "/PuteauxTheo_12_072022/static/media/iconProteines.75051c1665b940bb3dc5f760ba41ff60.svg",
+    "static/media/iconMeditation.svg": "/PuteauxTheo_12_072022/static/media/iconMeditation.902174480ad3248d93f0ee459533cc52.svg",
+    "static/media/iconLipides.svg": "/PuteauxTheo_12_072022/static/media/iconLipides.27ce32674148dab385abc4be5a4fcec6.svg",
+    "static/media/iconCalories.svg": "/PuteauxTheo_12_072022/static/media/iconCalories.b8c276e93e1df6b1691a9b5fe7fc5450.svg",
+    "static/media/iconMuscu.svg": "/PuteauxTheo_12_072022/static/media/iconMuscu.4fd7249abf4f773b92a2fa8722361dd7.svg",
+    "main.014a0ee1.css.map": "/PuteauxTheo_12_072022/static/css/main.014a0ee1.css.map",
+    "main.d78a1356.js.map": "/PuteauxTheo_12_072022/static/js/main.d78a1356.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.014a0ee1.css",
+    "static/js/main.d78a1356.js"
+  ]
+}
